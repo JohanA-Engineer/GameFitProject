@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949356694468",
+    "project_id": "gamefit-cc123",
+    "storage_bucket": "gamefit-cc123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949356694468:android:89305a5135c8f07e19f291",
+        "android_client_info": {
+          "package_name": "com.proyecto.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949356694468-ps1epdfllsuch86vlh11m6o0fcbl0h1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.myapplication",
+            "certificate_hash": "f47379235769c04a96f0d7cb8d10d64653ebb2c9"
+          }
+        },
+        {
+          "client_id": "949356694468-e2t6r9gac3fe8rvigaga01bd1picldef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUedqVuUeINZaVE_JmAJ4bIZ87LS7dHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949356694468-e2t6r9gac3fe8rvigaga01bd1picldef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

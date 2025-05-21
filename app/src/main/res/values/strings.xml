@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameFit</string>
+    <string name="default_web_client_id">gamefit-cc123.apps.googleusercontent.com</string>
+    <string name="google_api_key">AIzaSyAlUedqVuUeINZaVE_JmAJ4bIZ87LS7dHo</string>
+</resources>
